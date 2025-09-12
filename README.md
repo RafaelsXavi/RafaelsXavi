@@ -32,6 +32,6 @@ Me tornar um desenvolvedor full stack.
 
 <a href="https://www.instagram.com/rafaelsxavi">Instagram</a>
 
-Email
+[![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsxavi)](https://github.com/rafaelsxavi/github-readme-stats)
 
 ✨ Obrigado por visitar meu perfil!
