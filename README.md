@@ -9,9 +9,9 @@
 💻 Criando projetos com HTML, CSS e iniciando em JavaScript e React.
 </p>
 <section>
-<title>
+
 🚀 Tecnologias que estou aprendendo:
-</title>
+
 <div>
 🌐 HTML
 
