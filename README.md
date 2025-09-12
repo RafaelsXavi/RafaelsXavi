@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Olá, eu sou o Rafael!
 
-<!--
-**RafaelsXavi/RafaelsXavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Programador iniciante em constante aprendizado.
+📚 Atualmente estudando no DevClub para me tornar Programador Full Stack.
+💻 Criando projetos com HTML, CSS e iniciando em JavaScript e React.
 
-Here are some ideas to get you started:
+🚀 Tecnologias que estou aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 HTML
+
+🎨 CSS
+
+⚡ JavaScript (em progresso)
+
+⚛️ React (em progresso)
+
+📌 Objetivos
+
+Aprender cada vez mais sobre desenvolvimento web.
+
+Construir projetos práticos para aplicar os conhecimentos.
+
+Me tornar um desenvolvedor full stack.
+
+📂 Projetos
+
+🔹 Sabor Real - HTML E CSS
+
+📫 Onde me encontrar
+
+<a href="www.linkedin.com/in/rafael-silva-xavier-3688b7169">LinkedIn</a>
+
+<a href="https://www.instagram.com/rafaelsxavi">Instagram</a>
+
+Email
+
+✨ Obrigado por visitar meu perfil!
