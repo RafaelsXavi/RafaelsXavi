@@ -1,11 +1,18 @@
-👋 Olá, eu sou o Rafael!
-
+<h1>👋 Olá, eu sou o Rafael!</h1>
+<br>
+<br>
+<h2> Cursando em <a href="https://rodolfomori.com.br/devclub.com.br/devclub">DevClub Full Stack </a> </h2>
+<br>
+<p>
 🎯 Programador iniciante em constante aprendizado.
 📚 Atualmente estudando no DevClub para me tornar Programador Full Stack.
 💻 Criando projetos com HTML, CSS e iniciando em JavaScript e React.
-
+</p>
+<section>
+<title>
 🚀 Tecnologias que estou aprendendo:
-
+</title>
+<div>
 🌐 HTML
 
 🎨 CSS
@@ -13,7 +20,9 @@
 ⚡ JavaScript (em progresso)
 
 ⚛️ React (em progresso)
-
+</div>
+</section>
+<section>
 📌 Objetivos
 
 Aprender cada vez mais sobre desenvolvimento web.
@@ -21,7 +30,7 @@ Aprender cada vez mais sobre desenvolvimento web.
 Construir projetos práticos para aplicar os conhecimentos.
 
 Me tornar um desenvolvedor full stack.
-
+</section>
 📂 Projetos
 
 🔹 Sabor Real - HTML E CSS
