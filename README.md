@@ -1,46 +1,60 @@
-<h1>👋 Olá, eu sou o Rafael!</h1>
-<br>
-<br>
-<h2> Cursando em <a href="https://rodolfomori.com.br/devclub.com.br/devclub">DevClub Full Stack </a> </h2>
-<br>
-<p>
-🎯 Programador iniciante em constante aprendizado.
-📚 Atualmente estudando no DevClub para me tornar Programador Full Stack.
-💻 Criando projetos com HTML, CSS e iniciando em JavaScript e React.
+# 👋 Olá, eu sou o Rafael Silva Xavier!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaels-xavier/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/RafaelsXavi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
-<section>
 
-🚀 Tecnologias que estou aprendendo:
+---
 
-<div>
-🌐 HTML
+### 🚀 Sobre Mim
 
-🎨 CSS
+🎯 Programador em transição de carreira, focado em **Desenvolvimento Full Stack** e **Automação**.
+📚 Aluno em formação na **DevClub** [link para a DevClub].
+💡 Apaixonado por transformar ideias em soluções escaláveis, desde o banco de dados até o front-end.
 
-⚡ JavaScript (em progresso)
+---
 
-⚛️ React (em progresso)
-</div>
-</section>
-<section>
-📌 Objetivos
+### 🛠️ Minha Stack Atual
 
-Aprender cada vez mais sobre desenvolvimento web.
+Estou construindo projetos do Back ao Front, utilizando as seguintes tecnologias:
 
-Construir projetos práticos para aplicar os conhecimentos.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | 🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React (em progresso) |
+| **Back-end** | 🟢 Node.js, 🐘 Express |
+| **Banco de Dados** | 🍃 **MongoDB** |
+| **Ferramentas** | 🐙 Git/GitHub (Versionamento e Colaboração), BiomeJS (Linter/Formatter) |
+| **Automação (NEW!)** | ⚙️ **n8n** (Criação de Workflows e Agentes de IA) |
 
-Me tornar um desenvolvedor full stack.
-</section>
-📂 Projetos
+---
 
-🔹 Sabor Real - HTML E CSS
+### 🌟 Projetos em Destaque
 
-📫 Onde me encontrar
+* **Agente Financeiro & Vendas** (n8n/Node.js): Desenvolvimento de um assistente de IA para gerenciamento de finanças e atendimento via WhatsApp (Sabor Real).
+* **Sabor Real** (HTML/CSS): Projeto inicial de front-end.
+* * [Adicione aqui mais projetos de back-end com Node/MongoDB assim que estiverem no ar!] *
 
-<a href="www.linkedin.com/in/rafael-silva-xavier-3688b7169">LinkedIn</a>
+---
 
-<a href="https://www.instagram.com/rafaelsxavi">Instagram</a>
+### 📌 Objetivos de Curto Prazo
 
-[![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsxavi)](https://github.com/rafaelsxavi/github-readme-stats)
+* Dominar o ecossistema React (Hooks, Context API) para criar interfaces dinâmicas.
+* Construir APIs RESTful robustas com Node.js e MongoDB.
+* Aprofundar o conhecimento em arquitetura e otimização de código com **BiomeJS**.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+[![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelsXavi&show_icons=true&theme=default&hide_border=false)](https://github.com/RafaelsXavi)
+
+---
 
 ✨ Obrigado por visitar meu perfil!
+
+[link para a DevClub]: https://rodolfomori.com.br/devclub.com.br/devclub
