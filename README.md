@@ -37,7 +37,7 @@ Estou construindo projetos do Back ao Front, utilizando as seguintes tecnologias
 
 * **Agente Financeiro & Vendas** (n8n/Node.js): Desenvolvimento de um assistente de IA para gerenciamento de finanças e atendimento via WhatsApp (Sabor Real).
 * **Sabor Real** (HTML/CSS): Projeto inicial de front-end.
-* * [Adicione aqui mais projetos de back-end com Node/MongoDB assim que estiverem no ar!] *
+
 
 ---
 
