@@ -15,7 +15,7 @@
 
 🎯 Programador em transição de carreira, focado em **Desenvolvimento Full Stack** e **Automação**.
 📚 Aluno em formação FullStack na **DevClub**.
-💡 Apaixonado por transformar ideias em soluções escaláveis, desde o banco de dados até o front-end.
+💡 Apaixonado por transformar ideias em soluções escaláveis, tanto bakc-end quanto front-end.
 
 ---
 
