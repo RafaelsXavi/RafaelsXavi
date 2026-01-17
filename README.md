@@ -46,11 +46,6 @@ Estou construindo projetos do Back ao Front, utilizando as seguintes tecnologias
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-[![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelsXavi&show_icons=true&theme=default&hide_border=false)](https://github.com/RafaelsXavi)
-
----
 
 ✨ Obrigado por visitar meu perfil!
 
