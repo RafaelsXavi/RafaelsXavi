@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
+<br>
 <p>
 <a href="https://rafaelsxavier.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-2ea44f?style=for-the-badge&logo=kofi&logoColor=white" alt="Portfolio">
