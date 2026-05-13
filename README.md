@@ -7,7 +7,7 @@
 </p>
 <br>
 <p>
-<a href="https://portifolio-three-tau-77.vercel.app/" target="_blank">
+<a href="https://portfolio-three-tau-77.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-2ea44f?style=for-the-badge&logo=kofi&logoColor=white" alt="Portfolio">
 </a>
 </p>
